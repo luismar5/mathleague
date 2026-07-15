@@ -1,8 +1,8 @@
 # Math League Arcade
 
-Videojuego ligero para practica de calculo mental.
+Proyecto Vite + React listo para subir a GitHub y desplegar en Vercel.
 
-## Local
+## Desarrollo local
 
 ```bash
 npm install
@@ -18,6 +18,6 @@ npm run preview
 
 ## Vercel
 
-- Framework preset: Vite
-- Build command: npm run build
-- Output directory: dist
+- Framework Preset: `Vite`
+- Build Command: `npm run build`
+- Output Directory: `dist`
